@@ -1,0 +1,15 @@
+C:\Users\gzman\Documents\GitHub\BTK_Introduction._to_Algorithm_Programming_and_Data_Structures\Project_Algorithm\Project_Algorithm\obj\Debug\net8.0\Project_Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gzman\Documents\GitHub\BTK_Introduction._to_Algorithm_Programming_and_Data_Structures\Project_Algorithm\Project_Algorithm\obj\Debug\net8.0\Project_Algorithm.AssemblyInfoInputs.cache
+C:\Users\gzman\Documents\GitHub\BTK_Introduction._to_Algorithm_Programming_and_Data_Structures\Project_Algorithm\Project_Algorithm\obj\Debug\net8.0\Project_Algorithm.AssemblyInfo.cs
+C:\Users\gzman\Documents\GitHub\BTK_Introduction._to_Algorithm_Programming_and_Data_Structures\Project_Algorithm\Project_Algorithm\obj\Debug\net8.0\Project_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\gzman\Documents\GitHub\BTK_Introduction._to_Algorithm_Programming_and_Data_Structures\Project_Algorithm\Project_Algorithm\obj\Debug\net8.0\Project_Algorithm.sourcelink.json
+C:\Users\gzman\Documents\GitHub\BTK_Introduction._to_Algorithm_Programming_and_Data_Structures\Project_Algorithm\Project_Algorithm\bin\Debug\net8.0\Project_Algorithm.exe
+C:\Users\gzman\Documents\GitHub\BTK_Introduction._to_Algorithm_Programming_and_Data_Structures\Project_Algorithm\Project_Algorithm\bin\Debug\net8.0\Project_Algorithm.deps.json
+C:\Users\gzman\Documents\GitHub\BTK_Introduction._to_Algorithm_Programming_and_Data_Structures\Project_Algorithm\Project_Algorithm\bin\Debug\net8.0\Project_Algorithm.runtimeconfig.json
+C:\Users\gzman\Documents\GitHub\BTK_Introduction._to_Algorithm_Programming_and_Data_Structures\Project_Algorithm\Project_Algorithm\bin\Debug\net8.0\Project_Algorithm.dll
+C:\Users\gzman\Documents\GitHub\BTK_Introduction._to_Algorithm_Programming_and_Data_Structures\Project_Algorithm\Project_Algorithm\bin\Debug\net8.0\Project_Algorithm.pdb
+C:\Users\gzman\Documents\GitHub\BTK_Introduction._to_Algorithm_Programming_and_Data_Structures\Project_Algorithm\Project_Algorithm\obj\Debug\net8.0\Project_Algorithm.dll
+C:\Users\gzman\Documents\GitHub\BTK_Introduction._to_Algorithm_Programming_and_Data_Structures\Project_Algorithm\Project_Algorithm\obj\Debug\net8.0\refint\Project_Algorithm.dll
+C:\Users\gzman\Documents\GitHub\BTK_Introduction._to_Algorithm_Programming_and_Data_Structures\Project_Algorithm\Project_Algorithm\obj\Debug\net8.0\Project_Algorithm.pdb
+C:\Users\gzman\Documents\GitHub\BTK_Introduction._to_Algorithm_Programming_and_Data_Structures\Project_Algorithm\Project_Algorithm\obj\Debug\net8.0\Project_Algorithm.genruntimeconfig.cache
+C:\Users\gzman\Documents\GitHub\BTK_Introduction._to_Algorithm_Programming_and_Data_Structures\Project_Algorithm\Project_Algorithm\obj\Debug\net8.0\ref\Project_Algorithm.dll

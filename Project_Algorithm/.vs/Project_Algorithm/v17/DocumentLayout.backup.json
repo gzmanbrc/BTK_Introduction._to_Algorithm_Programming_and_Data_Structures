@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gzman\\Desktop\\C#_\\Project_Algorithm\\",
+  "WorkspaceRootPath": "C:\\Users\\gzman\\Documents\\GitHub\\BTK_Introduction._to_Algorithm_Programming_and_Data_Structures\\Project_Algorithm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52131FBA-8BC2-4586-A485-FE7E5163461B}|Project_Algorithm\\Project_Algorithm.csproj|c:\\users\\gzman\\desktop\\c#_\\project_algorithm\\project_algorithm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52131FBA-8BC2-4586-A485-FE7E5163461B}|Project_Algorithm\\Project_Algorithm.csproj|c:\\users\\gzman\\documents\\github\\btk_introduction._to_algorithm_programming_and_data_structures\\project_algorithm\\project_algorithm\\conditions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52131FBA-8BC2-4586-A485-FE7E5163461B}|Project_Algorithm\\Project_Algorithm.csproj|solutionrelative:project_algorithm\\conditions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52131FBA-8BC2-4586-A485-FE7E5163461B}|Project_Algorithm\\Project_Algorithm.csproj|c:\\users\\gzman\\documents\\github\\btk_introduction._to_algorithm_programming_and_data_structures\\project_algorithm\\project_algorithm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52131FBA-8BC2-4586-A485-FE7E5163461B}|Project_Algorithm\\Project_Algorithm.csproj|solutionrelative:project_algorithm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "conditions.cs",
+              "DocumentMoniker": "C:\\Users\\gzman\\Documents\\GitHub\\BTK_Introduction._to_Algorithm_Programming_and_Data_Structures\\Project_Algorithm\\Project_Algorithm\\conditions.cs",
+              "RelativeDocumentMoniker": "Project_Algorithm\\conditions.cs",
+              "ToolTip": "C:\\Users\\gzman\\Documents\\GitHub\\BTK_Introduction._to_Algorithm_Programming_and_Data_Structures\\Project_Algorithm\\Project_Algorithm\\conditions.cs",
+              "RelativeToolTip": "Project_Algorithm\\conditions.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAcwGAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T12:31:24.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gzman\\Desktop\\C#_\\Project_Algorithm\\Project_Algorithm\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\gzman\\Documents\\GitHub\\BTK_Introduction._to_Algorithm_Programming_and_Data_Structures\\Project_Algorithm\\Project_Algorithm\\Program.cs",
               "RelativeDocumentMoniker": "Project_Algorithm\\Program.cs",
-              "ToolTip": "C:\\Users\\gzman\\Desktop\\C#_\\Project_Algorithm\\Project_Algorithm\\Program.cs",
+              "ToolTip": "C:\\Users\\gzman\\Documents\\GitHub\\BTK_Introduction._to_Algorithm_Programming_and_Data_Structures\\Project_Algorithm\\Project_Algorithm\\Program.cs",
               "RelativeToolTip": "Project_Algorithm\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-25T19:29:09.508Z",
               "EditorCaption": ""
